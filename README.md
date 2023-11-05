@@ -6,5 +6,5 @@
 
 2- Ejecutar comando npm install -g json-server
 
-3- Ejecutar el comando npx json-server db.json
+3- Ejecutar el comando npx json-server --watch db.json
 
